@@ -1,5 +1,9 @@
 [versions]
+levilamina-kotlin-binding = "0.1.0-alpha"
+
+kotlin = "2.1.10"
 
 [libraries]
 
 [plugins]
+kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
