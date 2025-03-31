@@ -2,8 +2,10 @@
 levilamina-kotlin-binding = "0.1.0-alpha"
 
 kotlin = "2.1.10"
+jetbrains-dokka = "2.0.0"
 
 [libraries]
 
 [plugins]
 kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+jetbrains-dokka = { id = "org.jetbrains.dokka", version.ref = "jetbrains-dokka" }
