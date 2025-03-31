@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":lse-reference/commonMain":[],":lse-reference/jsMain":[":lse-reference/commonMain"]}'

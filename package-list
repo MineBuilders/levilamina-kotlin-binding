@@ -1,0 +1,6 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+
+module:Legacy Script Engine
+lse
+lse.script
